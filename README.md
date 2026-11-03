@@ -23,9 +23,7 @@
 Ponchik runs coding agents on your own Mac: they read your project, run commands, edit files and ask you when it matters. You follow along in a fast, native AppKit window, or from the iPhone app when you step away. No account, no cloud of ours: the agent, your code and your conversations stay on your Mac.
 
 <p align="center">
-  <img src="assets/iphone-tasks.png" width="300" alt="Tasks on the iPhone">
-  &nbsp;&nbsp;
-  <img src="assets/iphone-report.png" width="300" alt="A subagent's report in the feed">
+  <img src="assets/mac.png" alt="Ponchik for Mac: a task's feed with its edits, plan and test run, the changed files and its subagent beside it">
 </p>
 
 ## What it does
@@ -48,7 +46,13 @@ Ponchik runs coding agents on your own Mac: they read your project, run commands
 
 ### The iPhone app
 
-Get **Ponchik** from the App Store, then on the Mac open **Settings → iPhone and iPad** and scan the QR code with the phone. Both devices need to be on the same network. No Mac at hand? The iPhone app has a demo on its first screen.
+The companion app follows your Mac's tasks from the phone: answer the agent's questions, approve commands, read its reports and start new tasks. Get **Ponchik** from the App Store, then on the Mac open **Settings → iPhone and iPad** and scan the QR code with the phone. Both devices need to be on the same network. No Mac at hand? The iPhone app has a demo on its first screen.
+
+<p align="center">
+  <img src="assets/iphone-tasks.png" width="280" alt="Tasks on the iPhone">
+  &nbsp;&nbsp;
+  <img src="assets/iphone-report.png" width="280" alt="A subagent's report in the iPhone feed">
+</p>
 
 ## Privacy
 
